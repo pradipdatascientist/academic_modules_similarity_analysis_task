@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Academic Module Similarity Analysis
 
 ## Project Overview
@@ -74,3 +75,6 @@ Upon successful execution, the following output files will be generated in your 
 ## Approach and Design Choices
 
 For a detailed explanation of the project's approach, design choices, trade-offs, and validation metrics, please refer to the `explanation.md` document.
+=======
+# academic_modules_similarity_analysis_task
+>>>>>>> f06191b447991a771768a8f033fe0ba2a9da9788
