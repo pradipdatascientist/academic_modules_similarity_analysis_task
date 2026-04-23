@@ -1,0 +1,198 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Module Similarity Dashboard</title>
+        <style>
+            body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
+            .container { max-width: 1200px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+            h1, h2 { color: #333; }
+            .chart-container { margin-bottom: 40px; border: 1px solid #eee; border-radius: 4px; padding: 10px; }
+            iframe { width: 100%; height: 600px; border: none; }
+            table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+            th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+            th { background-color: #f8f9fa; }
+            tr:hover { background-color: #f1f1f1; }
+            .high-sim { color: #d9534f; font-weight: bold; }
+            .med-sim { color: #f0ad4e; font-weight: bold; }
+            .low-sim { color: #5bc0de; font-weight: bold; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Academic Module Similarity Analysis</h1>
+            <p>This dashboard visualises the semantic similarities between modules in the degree programme based on their aims, learning outcomes, and indicative content.</p>
+            
+            <h2>1. Semantic Module Map</h2>
+            <p>Modules closer together share more similar themes and learning outcomes. Use the tools to zoom and hover for details.</p>
+            <div class="chart-container">
+                <iframe src="module_map_plot.html"></iframe>
+            </div>
+            
+            <h2>2. Top Overlapping Modules</h2>
+            <p>The following pairs show the highest semantic similarity, potentially indicating significant content overlap or curriculum progression.</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Module A</th>
+                        <th>Module B</th>
+                        <th>Similarity Score</th>
+                        <th>Interpretation</th>
+                    </tr>
+                </thead>
+                <tbody>
+    
+                    <tr>
+                        <td>CM2117 - Short Industrial Placement</td>
+                        <td>CM2106 - Year-Long Industrial Placement</td>
+                        <td class="high-sim">0.92</td>
+                        <td>Possible overlap / duplication risk</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM1113 - Software Design and Development</td>
+                        <td>CM2115 - Advanced Software Design and Development</td>
+                        <td class="med-sim">0.80</td>
+                        <td>Likely topic continuity or progression</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM3147 - Native Mobile Apps</td>
+                        <td>CM3138 - Hybrid Apps</td>
+                        <td class="med-sim">0.77</td>
+                        <td>Likely topic continuity or progression</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2133 - Social and Human Factors in Cyber Security</td>
+                        <td>CM3144 - Information Risk and Security Management</td>
+                        <td class="med-sim">0.74</td>
+                        <td>Likely topic continuity or progression</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2123 - Programming for Video Games</td>
+                        <td>CM4137 - AI for Games</td>
+                        <td class="med-sim">0.73</td>
+                        <td>Likely topic continuity or progression</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM1131 - Cyber Security Fundamentals</td>
+                        <td>CM3144 - Information Risk and Security Management</td>
+                        <td class="med-sim">0.73</td>
+                        <td>Likely topic continuity or progression</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM1131 - Cyber Security Fundamentals</td>
+                        <td>CM2133 - Social and Human Factors in Cyber Security</td>
+                        <td class="low-sim">0.68</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2121 - 3D Reconstructive Techniques</td>
+                        <td>CM3112 - 3D Modelling</td>
+                        <td class="low-sim">0.68</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2120 - Game Design and Gameplay</td>
+                        <td>CM3137 - Gamification Practices</td>
+                        <td class="low-sim">0.65</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2112 - Real World Projects and Professional Skills</td>
+                        <td>CM2106 - Year-Long Industrial Placement</td>
+                        <td class="low-sim">0.64</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM3138 - Hybrid Apps</td>
+                        <td>CM4132 - Advanced Mobile Development</td>
+                        <td class="low-sim">0.64</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM1121 - Web UX</td>
+                        <td>CM4110 - Human Computer Interaction</td>
+                        <td class="low-sim">0.63</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM3147 - Native Mobile Apps</td>
+                        <td>CM4132 - Advanced Mobile Development</td>
+                        <td class="low-sim">0.63</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CE2000 - Dynamic Web Technologies</td>
+                        <td>CE2001 - Full Stack Applications</td>
+                        <td class="low-sim">0.63</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM1121 - Web UX</td>
+                        <td>CE2000 - Dynamic Web Technologies</td>
+                        <td class="low-sim">0.62</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM1116 - Visual Development Fundamentals</td>
+                        <td>CM2121 - 3D Reconstructive Techniques</td>
+                        <td class="low-sim">0.62</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM3130 - Interdisciplinary Team Project</td>
+                        <td>CE4321 - Capstone Project</td>
+                        <td class="low-sim">0.62</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2120 - Game Design and Gameplay</td>
+                        <td>CM4137 - AI for Games</td>
+                        <td class="low-sim">0.61</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CE1337 - Programming Bootcamp</td>
+                        <td>CM1113 - Software Design and Development</td>
+                        <td class="low-sim">0.61</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                    <tr>
+                        <td>CM2137 - Data Mining</td>
+                        <td>CM3151 - Machine Learning</td>
+                        <td class="low-sim">0.61</td>
+                        <td>Related but distinct</td>
+                    </tr>
+        
+                </tbody>
+            </table>
+            
+            <h2>3. Similarity Heatmap</h2>
+            <div class="chart-container">
+                <iframe src="similarity_heatmap_plot.html"></iframe>
+            </div>
+            
+            <p><i>Note: High similarity is not automatically a problem; it may reflect deliberate progression between levels.</i></p>
+        </div>
+    </body>
+    </html>
+    

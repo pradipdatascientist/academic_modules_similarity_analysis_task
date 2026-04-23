@@ -1,0 +1,697 @@
+[
+  {
+    "code": "CM1109",
+    "title": "Exploring Computing Devices",
+    "level": 7,
+    "aim": "To enable students to develop interactive physical systems using software development tools and single-board computers that are capable of processing data captured from physical sensors and controlling actuators for output.",
+    "learning_outcomes": [
+      "Identify the purpose of typical hardware and software components.",
+      "Describe the main components of a computer system, how software executes on a computer.",
+      "Outline the theories and issues involved in the control of a computer system.",
+      "Implement interactive programs for single-board computer systems that use inputs from sensors and control a variety of physical outputs."
+    ],
+    "indicative_content": "Main hardware and software components of physical computer systems; Arduino IoT hardware platform; Javascript software development using robotic and IoT libraries for interfacing with various sensors and actuators with appropriate variables, data types, and interactive control"
+  },
+  {
+    "code": "CM1119",
+    "title": "Problem Solving and Maths",
+    "level": 7,
+    "aim": "To develop appropriate skills in problem solving and critical thinking, and applying these tools and techniques in a variety of settings.",
+    "learning_outcomes": [
+      "Identify appropriate methods and strategies for solving problems in a variety of domains.",
+      "Employ critical thinking tools and techniques to analyse facts and evidence towards identifying solutions to problems.",
+      "Apply basic reasoning skills in the construction of logical and sound arguments in communicating solutions to problems.",
+      "Apply data-driven approaches to solving problems.",
+      "Apply analytical and mathematical modelling skills to a range of problems relevant to computing domains."
+    ],
+    "indicative_content": "Problem solving methods and strategies: abstraction, sub-goals, action sequences, critical thinking: argument analysis, fallacies; reasoning: inductive reasoning, deductive reasoning, abductive reasoning, logic; statistics: data summarisation, correlation, probability"
+  },
+  {
+    "code": "CE1337",
+    "title": "Programming Bootcamp",
+    "level": 7,
+    "aim": "To provide students with the competencies needed to design and develop simple computer programs.",
+    "learning_outcomes": [
+      "Identify basic programming structures of sequence, selection and iteration when implementing solutions to a computational problem.",
+      "Implement a structured approach to the design, development and testing of solutions to programming problems.",
+      "Select appropriate algorithms and simple data structures for use in the solution of programming exercises.",
+      "Employ appropriate software tools to create effective solutions to programming problems."
+    ],
+    "indicative_content": "Software Development: Variable, data types, declarations and expressions, iterative and conditional programming constructs, functions/methods, parameter passing mechanisms and arrays. Objects.Simple algorithms including max, min.Strategies for testing. Simple applications of programming to the solution of computational problems"
+  },
+  {
+    "code": "CM1122",
+    "title": "AI, Data and Society",
+    "level": 7,
+    "aim": "To introduce students to the core concepts in artificial intelligence and data science, and to explore the legal, ethical, social and security issues inherent in the field.",
+    "learning_outcomes": [
+      "Employ fundamental terminology involved in Artificial Intelligence and Data Science.",
+      "Describe the aims and achievements of the fields of Artificial Intelligence and Data Science.",
+      "Outline current and emerging impacts of Artificial Intelligence and Data Science on society.",
+      "Recognise the main legal and security issues that affect a given Artificial Intelligence or Data Science application.",
+      "Identify ethical and professional issues in the deployment of Artificial Intelligence and Data Science systems in the real world."
+    ],
+    "indicative_content": "Philosophy of Artificial Intelligence, the Turing test, the Chinese room argument, self awareness, Artificial General Intelligence, Impacts of automation, distribution of benefits and wealth, computer vision and the surveillance society, deepfakes and visual/audio manipulation, cyberstalking, lethal autonomous weapons. Data protection laws - GDPR, data protection act, the right to be forgotten. Data security - encryption, anonymisation, retention policies. Ethical issues - algorithmic bias, explainability"
+  },
+  {
+    "code": "CM1108",
+    "title": "Creative Design",
+    "level": 7,
+    "aim": "To provide the student with the ability to understand the core design principles that go along with developing digital media products. This involves understanding the tools, applying the theories, and mastering the techniques of developing a variety of products in this area.",
+    "learning_outcomes": [
+      "Identify research topics and select appropriate development methods for digital media projects.",
+      "Set up digital media projects making use of a range of appropriate tools.",
+      "Present effective organisation and management of resources for digital media projects.",
+      "Apply design principle fundamentals in the production of digital media artefacts.",
+      "Employ critical evaluation skills and report on the development of a digital artefact."
+    ],
+    "indicative_content": "Preparation: Concept development, research methods, mood boards, mind mapping/brainstorming, sketches, wireframes, literature reviews.Underlying concepts: The academic context of digital media production; evaluative frameworks; deployment contexts; digital workflow; development pipelines.Design principles: Aesthetics, function, form, theme.Analysis techniques and evaluation methods relevant to the examination of digital media artefacts."
+  },
+  {
+    "code": "CM1131",
+    "title": "Cyber Security Fundamentals",
+    "level": 7,
+    "aim": "This module aims to provide students with a strong foundation in key concepts, enabling them to identify attack patterns, apply attack modelling techniques, and develop practical skills in the ethical use of adversary tools, preparing them for advanced studies and empowering them to address Cyber Security challenges responsibly and effectively.",
+    "learning_outcomes": [
+      "Acquire foundational knowledge of key cyber security concepts.",
+      "Recognise different stages and patterns of common cyber attacks.",
+      "Describe various cyber-attack modelling methods, encompassing attack graphs, attack trees, fault trees, MITRE ATT&CK, and the Cyber Kill Chain",
+      "Apply tools, techniques, and adversary procedures in practical cyber security scenarios.",
+      "Recognise the importance of legal, ethical, and methodical conduct in applying cybersecurity measures."
+    ],
+    "indicative_content": "Security principles and practices, CIA, risks, threats, vulnerabilities, human factors and security usability, system security, software security, application security, data security, network security, and platform security, fundamentals of security operations and incident management, fundamentals of digital forensics, cyber-attacks, and defense methods, common cyber-attack modelling methods (attack graphs, trees, fault trees, MITRE ATT&CK, and the Cyber Kill Chain), fundamentals of security testing and validation. Cyber Landscape and Automation: Understanding the cyber landscape, Linux command line, Bash scripting, and automation (e.g. Python). Legal and ethical considerations."
+  },
+  {
+    "code": "CM1120",
+    "title": "Database Systems",
+    "level": 7,
+    "aim": "To provide an understanding of core relational database design principles and how these are applied to the development of a relational database management system.",
+    "learning_outcomes": [
+      "Recognise appropriate relational database systems at the conceptual and logical levels.",
+      "Choose normalisation techniques to achieve more efficient relational database designs.",
+      "Set up SQL code to define and manipulate relational data, including CRUD (Create, Read, Update, Delete) operations.",
+      "Identify optimisation techniques in relevant situations within relational databases."
+    ],
+    "indicative_content": "The relational model: relations, keys, entity and referential integrity and constraints. Database design methods: Entity-Relationship modelling and normalisation techniques. SQL: data definition and manipulation languages. Database Performance: Denormalisation. Contextual Application: games, web, app, security and access control"
+  },
+  {
+    "code": "CM1113",
+    "title": "Software Design and Development",
+    "level": 7,
+    "aim": "To provide students with an introduction to the principles of the design and implementation of object-oriented software.",
+    "learning_outcomes": [
+      "Apply object-oriented modelling and design concepts concerning classes, inheritance and abstraction.",
+      "Implement software systems using an object-oriented programming language.",
+      "Identify appropriate collections for storing data in software systems.",
+      "Employ appropriate methods for testing and debugging software systems."
+    ],
+    "indicative_content": "Software design: Object-oriented analysis, object-oriented design; Software development: introduction to C#, classes and objects, encapsulation, modularisation, arrays, collections, inheritance, error and file-handling, testing and debugging."
+  },
+  {
+    "code": "CM1121",
+    "title": "Web UX",
+    "level": 7,
+    "aim": "To provide students with an understanding of user-centred design principles, including the importance of accessibility and inclusive design in the context of web-based information systems.",
+    "learning_outcomes": [
+      "Describe the key components of designing information systems, emphasising implementation principles and methods.",
+      "Apply a human-centered approach to design interfaces and interactive systems that enhance user experience.",
+      "Work on the design of websites or apps that adeptly convey and integrate information for diverse contexts.",
+      "Present an understanding of accessibility principles and articulate factors for enhancing accessibility for websites and apps, emphasising its importance in web-based design"
+    ],
+    "indicative_content": "Interface design principles, information systems and information architecture. Website design and implementation, Human factors, Usability and UX. User classes and characteristics. Accessibility and inclusive design. Task based design methods."
+  },
+  {
+    "code": "CM1132",
+    "title": "Computing Network Fundamentals",
+    "level": 7,
+    "aim": "This module aims to provide students with fundamental knowledge in data communications and computer networks, emphasizing the development of skills in establishing data communications links, selecting optimal network configurations, understanding Local Area Networks' routing and switching concepts, and gaining proficiency in essential protocols and processes for managing computer networks.",
+    "learning_outcomes": [
+      "Acquire an understanding of the key principles governing the organisation and operation of communication networks, utilising domain terminology.",
+      "Apply theoretical knowledge and practical skills to select suitable equipment and protocols for setting up small networks.",
+      "Apply practical skills to configure basic network devices, meeting specified operating characteristics.",
+      "Describe fundamental network behaviour through the examination of captured network traffic."
+    ],
+    "indicative_content": "Fundamentals of network communication, LANs and WANs overview, network operating systems, network access and reference models (OSI and TCP/IP), addressing schemes, IP addressing and Ethernet fundamentals, subnetting IP networks, routing concepts and basic router configuration, switching concepts and basic switch configuration, access control lists (ACLs), standards and best practices, and network traffic and log analysis (e.g., basics of Wireshark and NetFlow)."
+  },
+  {
+    "code": "CM1123",
+    "title": "Data Analysis",
+    "level": 7,
+    "aim": "This module aims to provide students with the foundational skills needed to summarise and analyse numeric data, focusing on practical application of this knowledge in a modern computing environment.",
+    "learning_outcomes": [
+      "Employ appropriate statistics to measure the average and spread of a data set.",
+      "Present data visually using appropriate types of graph.",
+      "Recall basic probability laws for independent and interdependent variables.",
+      "Obtain estimates of population parameters from data samples.",
+      "Apply statistical tests to draw conclusions about data."
+    ],
+    "indicative_content": "Mean, median. mode, standard deviation, interquartile range, outlier detection. Tables, scatter plots, box plot, sina plot, violin plot, error bars, linear regression. Probability notation, independence, conditional probability, uniform distribution, binomial distribution, normal distribution. Sampling techniques, bias, central limit theorem, confidence intervals. Hypothesis testing, type 1 and type 2 errors, z-test, t-test, p values, Wilcoxon test, Mann-Whitney test, chi-squared test."
+  },
+  {
+    "code": "CM1116",
+    "title": "Visual Development Fundamentals",
+    "level": 7,
+    "aim": "To provide the student with the ability to understand the fundamental concepts of digital drawing, perspective drawing, composition and compositing, and to enable the student to develop vector and bitmap digital artwork.",
+    "learning_outcomes": [
+      "Identify fundamental techniques for drawing objects.",
+      "Implement raster images and vector graphics using an image editing application.",
+      "Present effective organisation and management of resources for graphics projects.",
+      "Employ development techniques for digital artwork in the resolution of a digital project."
+    ],
+    "indicative_content": "Digital drawing: Basic shapes & construction, shading, contouring, hatching, texture, rough & refined line work.Perspective drawing: Basic concepts of perspective, foreshortening, linear perspective, grids, detail & refinement. Underlying concepts: E.g. vector vs. raster graphics, compression, resolution & quality.Illustration in a graphics application: Drawing, tracing, vector & raster.Image manipulation: Cropping, sizing, filtering, scanning, digital photography & printing. Composition: Focus, overlapping, negative & positive space (or shape), lines, balance, contrast and proportion. Compositing: File format, colour space, colour correcting, image manipulation and mattepainting."
+  },
+  {
+    "code": "CM2115",
+    "title": "Advanced Software Design and Development",
+    "level": 8,
+    "aim": "To extend students' knowledge and proficiency in object-oriented design and develop skills in implementing models to support user interaction.",
+    "learning_outcomes": [
+      "Show knowledge and an understanding of object-oriented modelling and design concepts concerning inheritance, interfaces, and abstract classes.",
+      "Infer appropriate applications for commonly used design patterns in object-oriented software design and development.",
+      "Undertake the design and implementation of software system classes.",
+      "Use an event handling model to support user interaction in object-oriented software."
+    ],
+    "indicative_content": "Object-oriented design, inheritance, interfaces, abstract classes, polymorphism, exceptions, file handling, enumerated types, design patterns, event-handling, collections."
+  },
+  {
+    "code": "CE2000",
+    "title": "Dynamic Web Technologies",
+    "level": 8,
+    "aim": "This module introduces students to the principles and practicalities of web development focusing on the design, implementation, and deployment of high-quality client-side interactive web applications.",
+    "learning_outcomes": [
+      "Compare the major components of front-end web applications.",
+      "Undertake the design of interactive interfaces for web applications.",
+      "Use web technologies to develop the front-end of dynamic web applications that incorporate data from third party sources.",
+      "Undertake the evaluation of deployed web pages to ensure they meet quality and accessibility standards."
+    ],
+    "indicative_content": "This module introduces core web technologies, including HTML, CSS, and JavaScript, to develop webpages that respond to events, such as user interactions, and update content dynamically. Front-end frameworks will be used to simplify the development of responsive and consistent layout design, supplemented by guidelines on web accessibility and usability best practices. Students will explore how to incorporate data from third-party services into their web pages, use templating to improve the efficiency of development, and deployment on web servers. This will culminate in the development of a web application that demonstrates design acumen, usability, real-world value, and adherence to performance standards."
+  },
+  {
+    "code": "CM2112",
+    "title": "Real World Projects and Professional Skills",
+    "level": 8,
+    "aim": "The module aims to provide students with practical interpersonal communication skills (written, oral and group) to support placement activity and employment. The module also aims to introduce students to current professional issues linked to ethics and conduct, data protection and legislation, issues of IP, copyright and ownership.",
+    "learning_outcomes": [
+      "Practice employability skills",
+      "Show an awareness and ability to understand real-world problems and apply social, professional, legal and ethical standards as documented in professional codes of conduct of computing and IT professional bodies.",
+      "Undertake innovation and creativity linked to real-world projects through group work.",
+      "Use effective preparatory and oral presentation skills."
+    ],
+    "indicative_content": "Employability Preparation, CV Preparation, Interview skill. Applying for a job/placement. Critical analysis and problem solving, report writing, tools and style. Group work and effective planning. Importance of reflection and evidence based practice. Collaboration and software tools. Oral presentation skills. Entrepreneurship and technology commercialisation. Frameworks for ethical analysis and arguments. Current Real-World Problems, Social, Professional, Legal and Ethical issues related to the computing industry; data protection, freedom of information, computer misuse, copyright, accessibility, health and safety. Standards and Best Practice Guides: ISO 20000, ISO 27001, ISO 27014. GDPR 2018."
+  },
+  {
+    "code": "CM2137",
+    "title": "Data Mining",
+    "level": 8,
+    "aim": "To provide students with an understanding of the main principles underlying Data Mining techniques and the ability to apply current Data Mining tools to datasets.",
+    "learning_outcomes": [
+      "Compare the advantages and disadvantages of applying a specific data mining technique to a given learning task.",
+      "Use appropriate data mining techniques to solve a given problem.",
+      "Show the results of data mining through the selection of appropriate evaluation techniques.",
+      "Report current strengths, limitations and ethical issues in the use of data mining technology."
+    ],
+    "indicative_content": "Data mining concepts. Data mining methodology and life cycle (e.g., CRISP-DM). Data mining types (e.g., supervised and unsupervised). Data mining tasks (e.g., classification, clustering, regression). Data mining algorithms (e.g., Decision tree, random forest, SVM, KNN). Data mining applications. Ethical issues and potential bias in data mining."
+  },
+  {
+    "code": "CM2120",
+    "title": "Game Design and Gameplay",
+    "level": 8,
+    "aim": "This module aims to provide students with a comprehensive understanding of the principles and techniques essential for effective game design. Through theoretical exploration, hands-on exercises, and analysis of existing games, students will develop the knowledge and skills required to conceptualise, create, and refine engaging gameplay experiences across various genres and platforms.",
+    "learning_outcomes": [
+      "Adapt foundational principles of game design, including player motivation, game mechanics, and player feedback loops.",
+      "Categorise existing games to understand how game systems and mechanics contribute to player engagement and satisfaction.",
+      "Undertake the development of an original game concept incorporating consideration for innovative mechanics, player objectives, and narrative elements.",
+      "Combine user centred design principles to ensure intuitive, enjoyable, and accessible gameplay experiences for a diverse audience.",
+      "Practice playtesting and iterative design processes to refine game mechanics, difficulty levels, and player progression for optimal player satisfaction."
+    ],
+    "indicative_content": "Game Design; Definitions, roles, history.Fundamentals; Player motivation and psychology, MDA framework, feedback loops and reward.Game Mechanics Analysis; Player experience, analysing game systems, rules, interactions and key mechanics. Conceptualising Gameplay Experiences; Ideation techniques, defining player objectives, challenge, narrative elements and storytelling.User-Centred Design Principles; Player personas, user profiles, usability testing and player feedback, accessibility.Balancing; Playtesting, monetisation, iteration, player progression and difficulty, cohesive experience.Prototyping; Tools, functional prototypes, player control and interaction.Presentation; Showcasing, critique, adaptive gameplay and appraisal."
+  },
+  {
+    "code": "CM2133",
+    "title": "Social and Human Factors in Cyber Security",
+    "level": 8,
+    "aim": "This module aims to equip students with an understanding of human factors in cybersecurity, fostering the development of skills in strategic risk management, the design of usable security measures, and effective stakeholder engagement. This preparation enables students to promote security awareness and provide informed recommendations for addressing social and human factor challenges.",
+    "learning_outcomes": [
+      "Distinguishes the significance of human factors in cybersecurity via key behaviours impacting security.",
+      "Practice usability inspection, inquiry, and evaluation techniques to analyse user behaviour and perceptions within security mechanisms.",
+      "Undertake an exploration and examination of materials and real-world situations related to social and human factor issues linked to Cyber Security.",
+      "Show an awareness of guidance and recommendations to enhance stakeholders' security awareness in addressing social and human factor issues related to Cyber Security."
+    ],
+    "indicative_content": "Human-centred security: Usability Inspection, Enquiry and Evaluation; Usable Security and Trade-offs; User Research, Personas, and Design for Human Values; Behaviour Change Approaches and Frameworks; Nudging and Persuasion for Cybersecurity; HCI design processes, standards and guidelines.Human Capabilities and Limitations: Memory, Biases and strategies, Error, violations and mitigations; Risk perception and Trust; Alarm Fatigue, One- Time Passwords and best practices; Models and measurements of situational awareness; Task Allocation, Error Mitigation.Stakeholder Engagement and Assessment Criteria: socio-technical case study analysis; Awareness, Education, and Positive Security; Ethical Considerations; Environmental factors; Employee and Developer Perspectives."
+  },
+  {
+    "code": "CM2116",
+    "title": "Data Structures and Algorithms",
+    "level": 8,
+    "aim": "To provide students with a knowledge of and ability to implement commonly-occurring data structures and abstractions, and the ability to analyse and critically compare algorithms in terms of complexity and efficiency.",
+    "learning_outcomes": [
+      "Show an extended understanding of different types of commonly occurring data structures and their applications.",
+      "Undertake the design and development of implementations for commonly occurring data abstractions.",
+      "Compute mathematical techniques to critically-compare algorithms based on efficiency and scalability.",
+      "Show an understanding of pseudocode descriptions of methods and algorithms, and implementations thereof."
+    ],
+    "indicative_content": "Algorithms: sorting and searching, recursive algorithms, algorithm analysis, computational complexity. Data structures: lists, maps, trees, hash tables, stacks, heaps, graphs."
+  },
+  {
+    "code": "CE2001",
+    "title": "Full Stack Applications",
+    "level": 8,
+    "aim": "This module aims to equip students with essential skills in full-stack application development using web technologies. It focuses on designing, developing, and testing secure full-stack web applications.",
+    "learning_outcomes": [
+      "Compare on the components of full-stack web applications.",
+      "Plan the integration of technologies required by full-stack web apps.",
+      "Undertake the development of a full-stack web application,",
+      "Undertake testing and evaluation of the functionality of a full-stack web application."
+    ],
+    "indicative_content": "This module introduces the design and development of dynamic full-stack web applications. Students will be introduced to aspects such as component-based user interface development, server-side processing, and secure data management. Over the course of the module, students will manage development using version-controlled systems, continuously integrating and deploying code to web servers. Students will adhere to modern standards to test the effectiveness, efficiency, and security of web applications"
+  },
+  {
+    "code": "CM2124",
+    "title": "Research Methods",
+    "level": 8,
+    "aim": "To enable the student to effectively apply and contextualise suitable research methods by developing skills needed to undertake independent research in a rapidly evolving discipline.",
+    "learning_outcomes": [
+      "Use the core concepts and principles of the fundamentals of research.",
+      "Plan a research methodology related to a research theme.",
+      "Show applied knowledge of qualitative and/or quantitative research methods according to context.",
+      "Show an understanding of with legal, ethical, social and professional issues within research."
+    ],
+    "indicative_content": "Interviews, focus groups, survey and questionnaire design, sampling, biases, literature reviews, discourse analysis, transcription and coding, academic writing norms, analysis and evaluations, ethics and informed consent."
+  },
+  {
+    "code": "CM2121",
+    "title": "3D Reconstructive Techniques",
+    "level": 8,
+    "aim": "To provide the student with the ability to design, develop and evaluate interactive experiences that explore the integration of photogrammetry techniques within a game environment.",
+    "learning_outcomes": [
+      "Distinguish the fundamental principles, tools and techniques concerning 3D reconstruction methods and visualisation.",
+      "Show proficiency in using software tools and workflow pipelines to process scan data, including cleaning, editing, and preparing ready to use assets.",
+      "Practice techniques in the creation of accurate, usable models derived from scan data, and suitable application in creative domains with consideration for any interaction.",
+      "Report on and conclude the effectiveness of different visualisation techniques employed."
+    ],
+    "indicative_content": "Establishing scanning techniques in various industries and fields, and its application to create innovative solutions. Practice with scanning tools and techniques to create high-quality 3D models. Workflow automation from scanning to visualisation. Development of effective tech-art pipelines for quick prototyping. Auto-rigging, animation and interactions using suitable Games Engines. Particles, VFX, and post-processing for interactive experiences."
+  },
+  {
+    "code": "CM2138",
+    "title": "Business Intelligence",
+    "level": 8,
+    "aim": "To provide students with an in-depth knowledge of business intelligence and data warehousing concepts, methods and tools for solving business problems.",
+    "learning_outcomes": [
+      "Report the main components of a business intelligence system.",
+      "Use a methodology for designing a business intelligence solution",
+      "Use appropriate tools to create a business intelligence solution.",
+      "Compare different methods for data integration and master data management.",
+      "Practice different methods of visualising data appropriate to different stakeholders."
+    ],
+    "indicative_content": "Business Intelligence (BI) systems and types of decisions managers face. Data Visualisation and Dashboard Techniques. Mapping data to visual representations; awareness of accessibility issues.Data integration, data federation and data virtualisation. Security, privacy and legal issues. Data lakes. ETL (Extraction, Transformation and Loading). Master Data Management. Multi-Dimensional Data Analysis. Concepts and benefits associated with data warehousing. Architecture of a data warehouse. Tools for Data warehousing."
+  },
+  {
+    "code": "CM2136",
+    "title": "Cryptography",
+    "level": 8,
+    "aim": "This module aims to provide students with essential knowledge of cryptography, covering concepts, standards, and schemes while emphasising its crucial role in securing computer systems. It also emphasises the development of practical skills in applying cryptography and identifying potential attacks against cryptographic algorithms and protocols.",
+    "learning_outcomes": [
+      "Show a comprehensive understanding of cryptography fundamentals.",
+      "Show an understanding of practical implementations of modern crypto-systems.",
+      "Combine theoretical knowledge and practical skills to select known cryptographic techniques for a given scenario.",
+      "Report vulnerabilities in digital systems deploying cryptography."
+    ],
+    "indicative_content": "Essential mathematical preliminaries for cryptography, digital threats, cryptographic basic terminology, symmetric cryptosystems, block ciphers, Feistel cipher, symmetric encryption algorithms (e.g., DES and AES), public key cryptosystems (e.g. public key encryption, public key signatures), public key algorithms (e.g.RSA), authentication protocols, key agreement protocols (e.g. Diffie-Hellman, key transport, station-to-station), public-key schemes with special properties (e.g. group, ring, blind signatures, homomorphic encryption), hash functions and message digests, digital signatures, security protocols, certificates and public key infrastructures, cryptographic security models."
+  },
+  {
+    "code": "CM2123",
+    "title": "Programming for Video Games",
+    "level": 8,
+    "aim": "To extend student knowledge and proficiency in essential programming skills required for wider video game development approaches. Students will learn to implement game logic, handle user input, create interactive elements, and utilise graphics rendering techniques - enhancing their proficiency when designing and developing basic video games, and laying the foundation for more advanced video game programming concepts.",
+    "learning_outcomes": [
+      "Show an understanding for fundamental programming principles within a game context, including variables, loops, conditionals, and functions.",
+      "Undertake appropriate design and application of game logic and user/player input and interaction.",
+      "Practice graphics programming within video games in order to render 2D and basic 3D graphics for game environments and characters.",
+      "Use gained knowledge to implement basic physics simulations and introduce simple artificial intelligence elements for interactive gameplay."
+    ],
+    "indicative_content": "Programming fundamentals; Variables, data types, loops, and functions, providing students with a strong foundation in coding.Game-Specific Programming Concepts; Game logic implementation, controlling player input, manage game state, and creation of interactive elements. Graphics and Rendering; Render 2D and basic 3D graphics for game environments and characters. Physics; Basic game physics principles, simulation of motion, collisions, and interactions within the game world. Basic Artificial Intelligence; Simple AI behaviours."
+  },
+  {
+    "code": "CM2117",
+    "title": "Short Industrial Placement",
+    "level": 8,
+    "aim": "To provide students with an opportunity to work in a real computing workplace in order to improve their future employability through developing existing technical skills, acquiring new ones, improving soft skills, and gaining practical experience in their chosen field.",
+    "learning_outcomes": [
+      "Use existing technical skills for practical computing tasks in a workplace.",
+      "Practice newly acquired technical computing skills in a workplace.",
+      "Show professional skills enabling you to operate in an efficient and professional manner as an individual in a workplace.",
+      "Practice effective interaction with others in a workplace, including colleagues, customers, clients, and managers."
+    ],
+    "indicative_content": "This module is based on a placement at an external organisation. The student will be given the opportunity to improve both their technical and soft skills through working within the organisation. However, the exact nature of this will vary widely depending on the type of organisation hosting the student and the role undertaken by the student within that organisation."
+  },
+  {
+    "code": "CM2118",
+    "title": "Study Abroad",
+    "level": 8,
+    "aim": "To enable students to participate in study abroad opportunities with selected partners of the School of Computing, allowing them to gain the cultural, interpersonal, educational and social benefit of study abroad in an international environment.",
+    "learning_outcomes": [
+      "Show an understanding and competence of a pre-approved subject taught in a partner institution.",
+      "Adapt their skills to study within an international context.",
+      "Practice a variety of verbal and written skills in a suitable cultural context.",
+      "Report technical and soft skills developed throughout the study abroad period."
+    ],
+    "indicative_content": "Students will be expected to attend lectures and attempt assessments in the subjects declared in the learning agreement drawn in the relevant subject area."
+  },
+  {
+    "code": "CM2106",
+    "title": "Year-Long Industrial Placement",
+    "level": 8,
+    "aim": "To provide students with an opportunity to work in a real computing workplace in order to improve their future employability through developing existing technical skills, acquiring new ones, improving soft skills, and gaining practical experience in their chosen field.",
+    "learning_outcomes": [
+      "Use existing technical skills for practical computing tasks in a workplace.",
+      "Practice newly acquired technical computing skills in a workplace.",
+      "Show professional skills enabling you to operate in an efficient and professional manner as an individual in a workplace.",
+      "Practice effective interaction with others in a workplace, including colleagues, customers, clients, and managers.",
+      "Report on the skills, knowledge and experience gained from the placement in the context of employability and future career choices."
+    ],
+    "indicative_content": "This module is based on a placement at an external organisation. The student will be given the opportunity to improve both their technical and soft skills through working within the organisation. However, the exact nature of this will vary widely depending on the type of organisation hosting the student and the role undertaken by the student within that organisation."
+  },
+  {
+    "code": "CM3113",
+    "title": "Concurrent Programming",
+    "level": 9,
+    "aim": "To provide the student with knowledge of concurrent programming techniques and to develop the student's ability to design, implement and verify effective and secure software solutions within a concurrent programming development environment.",
+    "learning_outcomes": [
+      "Interpret user requirements and develop a concurrent solution as a collection of interacting threads of execution.",
+      "Explain concurrent interactions within the overall design and select an appropriate combination of synchronisation mechanisms to handle these interactions.",
+      "Defend the application of analytic rigour to verify correctness of an overall design approach.",
+      "Contrast the use of the facilities that provide support for multi-threading and synchronisation in a concurrent programming environment."
+    ],
+    "indicative_content": "Key concepts of multi-threaded programming including: thread attributes, thread life history, scheduling. Indivisible operations, race conditions, safety and liveness, formal approaches to verifying correctness of a concurrent design. Synchronisation primitives based on use of: shared variables, test and set primitives, semaphores, monitors. Generic concurrent programming problems and their solution: mutual exclusion, resource allocation, event ordering, interthread communication. Client Server systems and secure connections using Java Sockets. Security issues in concurrent systems."
+  },
+  {
+    "code": "CM3130",
+    "title": "Interdisciplinary Team Project",
+    "level": 9,
+    "aim": "To introduce principles and techniques involved in working as part of an interdisciplinary team and to provide students with a knowledge of project management methodology, preparing them to critically manage and run a full development lifecycle.",
+    "learning_outcomes": [
+      "Assess appropriate project management techniques and methodologies for application to the management of projects.",
+      "Organise, prioritise and validate requirements per criteria, such as feasibility and clarity, in order to meet customer requirements.",
+      "Interpret the range of development resources required, allocate them to a project and demonstrate through involvement in a team project.",
+      "Assemble regular informative reports and make concise, engaging and well-structured verbal and written presentations, arguments and explanations about technical problems and their solutions.",
+      "Support a small interdisciplinary team, as a member or lead, showing understanding of the principles of leadership, and adopt best practices for developing software in teams recognising challenges and approaches taken to resolve them."
+    ],
+    "indicative_content": "A review of different development lifecycles, contrasting the activities performed in each phase. An introduction to tools used in project management (e.g. activity diagrams, use case diagrams) as well as types of project plans (e. g. Gantt charts, sprint backlogs), within the context of industrially-specific activities (e.g. software engineering).Project Planning. Project Management. Communication and Presentation skills. Quality assurance, ethical and legal requirements. Requirements analysis. Agile development methodologies. Teamwork. Project Documentation"
+  },
+  {
+    "code": "CM3151",
+    "title": "Machine Learning",
+    "level": 9,
+    "aim": "Provide students with the necessary technical skills and underlying knowledge that enable them to apply and evaluate different data analytics and machine learning algorithms.",
+    "learning_outcomes": [
+      "Demonstrate an understanding of the main components in a data driven system.",
+      "Make judgements on the application and evaluation of different machine learning algorithms.",
+      "Formulate solutions to source data and extract knowledge.",
+      "Discuss the application of different visualisation methods to communicate results."
+    ],
+    "indicative_content": "Data Analytics: visualisation, pre-processing, text, categorical data, numerical, vision problem.Machine Learning: Classification, Regression, Decision Trees, Ensemble Learning , Kernel Methods.Results: Markdown, Reproducible Results, Interactive Documents"
+  },
+  {
+    "code": "CM3112",
+    "title": "3D Modelling",
+    "level": 9,
+    "aim": "To provide the student with the ability to evaluate the use of 3D graphics primitives, and advanced principles and concepts of modelling, texturing, lighting and rendering used in 3D graphics techniques. To provide the student with the ability to build post-processed 3D graphics products and applications.",
+    "learning_outcomes": [
+      "Demonstrate techniques for modelling and transforming objects in 3D space, using primitives and poly-modelling concepts in the field of architectural design.",
+      "Make judgements on techniques for shading, texturing and rendering object surfaces.",
+      "Review techniques for global illumination, lighting and shadow mapping.",
+      "Sketch realistic 3D models and architectural scenes using suitable modelling tools and software.",
+      "Assemble 3D designs into final realistic products using post-processing software."
+    ],
+    "indicative_content": "Preparation: Concept development, visual research. 3D Modelling: primitives, geometry, translation and manipulation, poly Modeling, low & high poly, scene management, modifiers, hard surface modeling. UV Mapping: unwrapping, seams, projection, islands, packing. PBR Materials and Texturing: shader graph, nodes, textures, procedural shader methods. Lighting: light types, intensity, colour, cinematography, HDRI environments. Camera: field of view, depth of field. Rendering: render engines, ambient occlusion, bloom, samples, baked lighting and reflection, render optimization"
+  },
+  {
+    "code": "CM3137",
+    "title": "Gamification Practices",
+    "level": 9,
+    "aim": "This module aims to equip students with a substantial understanding of gamification principles and their practical application across various domains. Through theoretical exploration, case studies, and hands-on projects, students will learn how to leverage game design elements to enhance user engagement, motivation, and participation in non-game contexts.",
+    "learning_outcomes": [
+      "Make judgements on gamification principles used to enhance engagement and motivation within traditionally non-game specific areas such as education, healthcare and employee productivity.",
+      "Formulate a gamified solution that aligns with specific non-game objectives, effectively leveraging game mechanics and feedback systems to drive desired behaviours.",
+      "Review the effectiveness of gamified experiences in achieving predefined non-game objectives, considering metrics like user engagement and behavioural change.",
+      "Assemble ethical considerations into gamified solutions, ensuring transparency, user consent, data privacy, and fairness in non-game contexts."
+    ],
+    "indicative_content": "Gamification; Common practices and distinction, games vs. gamification. Mechanics & Dynamics; Using game elements (points, badges etc.), dynamics such as competition and cooperation, case studies.Adapting for Non-Game; Education practice, healthcare, marketing and workforce.Ethics; Consent and privacy, fairness and transparency, manipulation and addiction.Designing Experiences; Narrative and story arcs, user centred design, progress tracking methods.Impact; Metrics and identification, iterative optimisation, analysing feedback.Trends; Immersive technology, Blockchain and tokenisation, AI and adaptive gamification."
+  },
+  {
+    "code": "CM3144",
+    "title": "Information Risk and Security Management",
+    "level": 9,
+    "aim": "This module aims to provide students with a thorough comprehension of information risk and security management, empowering them to identify, assess, and manage information security risks effectively within an organizational context.",
+    "learning_outcomes": [
+      "Demonstrate a comprehensive understanding of various information security risks within organizational settings.",
+      "Assess the information security risks for a given scenario.",
+      "Demonstrate a comprehensive understanding of information security management principles.",
+      "Formulate a cybersecurity program aligned with organisational objectives and relevant regulations."
+    ],
+    "indicative_content": "Risk Definition; Risk Perception Factors; Human Factors and Risk Communication; Security Culture; Information Security Standards; Enacting Security Policy; Component vs. Systems Perspectives; Elements of Risk (e.g., Vulnerability, Threat, Likelihood, Impact); Risk Assessment and Management Methods (e.g., NIST Guidelines, ISO/IEC 27005, Octave Allegro, STRIDE, Attack Trees); Governance Models; Legal and Regulatory Frameworks (e.g. GDPR, Computer Misuse Act, ISO27001, HIPAA,PCI DSS); Audit and Compliance; Information Security Governance and Planning; Information Assurance; Planning for Risk Assessment; Managing Risks and Threats; Information Security Policy Principles; Information Security Policy Implementation; Physical and Environmental Security; Technical Security Controls; Information Sharing; Business Continuity; Incident Response and Recovery Planning (e.g., ISO/IEC 27035, NCSC Guidance); Risk Assessment and Management in Cyber-Physical Systems (OT, ICS, CNI, SCADA, NIS); Security Metrics"
+  },
+  {
+    "code": "CM3147",
+    "title": "Native Mobile Apps",
+    "level": 9,
+    "aim": "To develop the student's competency using native app development tools to create apps for a specific mobile device platform.",
+    "learning_outcomes": [
+      "Formulate the design of native apps using knowledge of app architectures and major components.",
+      "Make judgements on the selection and effective use of appropriate software tools for developing native apps.",
+      "Demonstrate the ability to create interactive apps that store, transfer, and retrieve data for a specific mobile platform.",
+      "Review security implications in native apps."
+    ],
+    "indicative_content": "Android app development, prototyping, mobile design, data persistence, architecture components, user interfaces, web services, JSON, app security."
+  },
+  {
+    "code": "CM3152",
+    "title": "Artificial Intelligence for Problem Solving",
+    "level": 9,
+    "aim": "To provide the student with the ability to demonstrate the practical skills required for the development of intelligent problem-solving systems.",
+    "learning_outcomes": [
+      "Explain the main problem solving methods within Artificial Intelligence.",
+      "Differentiate the various search methods which can be used for problem solving.",
+      "Demonstrate the use of a suitable search strategy in an intelligent problem-solving system.",
+      "Assess the use of heuristics in a problem solving task."
+    ],
+    "indicative_content": "Artificial Intelligence definition, concepts, problems and examples, paradigms. Uninformed searches: breadth-first, depth-first, depth-limited, iterative deepening, bidirectional search.Informed searches: Best-first, A*, heuristics. Adversarial searches: Minimax, Alpha-beta pruning.Local searches: Hill-climbing and variants, Genetic Algorithms (GA)."
+  },
+  {
+    "code": "CM3142",
+    "title": "Internet of Things",
+    "level": 9,
+    "aim": "To enable students to design and implement simple, integrated systems, using low cost embedded hardware and software development tools that implement common interface standards, that can process data acquired from sensors, reacting to this data or transferring the data across the internet.",
+    "learning_outcomes": [
+      "Discuss the key concepts, protocols, and enabling technologies of the Internet of Things.",
+      "Defend the selection and use of technologies for inclusion in a simple IoT system.",
+      "Demonstrate the ability to create a simple Internet of Things application.",
+      "Assess typical legal, ethical, and security considerations for the Internet of Things."
+    ],
+    "indicative_content": "Basic concepts of the Internet of Things and its enabling technologies. Students will be exposed to various techniques and approaches to developing software for embedded, restricted and interconnected systems. Approaches to hardware and software interfacing with sensors, displays and cloud based data collection and visualisation. Developing sensor systems for environmental, system or behaviour monitoring. Students will also evaluate the associated legal considerations and security measures."
+  },
+  {
+    "code": "CM3141",
+    "title": "Pirate Studies",
+    "level": 9,
+    "aim": "To create a product that has a product-market fit within the student's respective area of expertise.",
+    "learning_outcomes": [
+      "Demonstrate the ability to identify and evaluate new venture opportunities, demonstrating proficiency in recognising market needs and innovation potential.",
+      "Assess the skills to interpret customer needs, and quantify and communicate a compelling value proposition with a thorough understanding of customer-centric strategies.",
+      "Assess proficiency in crafting winning business plans and scaling startups for global success, integrating strategic thinking, operational planning, and sustainable growth strategies.",
+      "Demonstrate progress from low-fidelity to high-fidelity prototyping, showcasing a comprehensive understanding of the iterative development process in entrepreneurial ventures."
+    ],
+    "indicative_content": "Market Segmentation, High Level Product Specifications, Charting competitive position, Mapping process to a paying customer, Business Model Generation, Setting prices, Testing Assumptions, Value Proposition Design"
+  },
+  {
+    "code": "CM3149",
+    "title": "Audio and Visual Production",
+    "level": 9,
+    "aim": "To provide the student with the ability to develop, plan, create, select, edit, integrate and evaluate appropriate elements in audio and video production.",
+    "learning_outcomes": [
+      "Assemble a concept for an audio and video production.",
+      "Formulate requirements and plan audio and video production.",
+      "Demonstrate the capture and creation of audio and video and other production elements.",
+      "Review production elements to create the final cut.",
+      "Contrast and defend appropriate tools, techniques and concepts for an audio and video production."
+    ],
+    "indicative_content": "Concepts: movie genres, narrative style, text, sound effects, music. Production: filming, text, graphics, audio. Post-production: cuts, transitions, effects, integration, distribution."
+  },
+  {
+    "code": "CM3153",
+    "title": "Big Data Systems",
+    "level": 9,
+    "aim": "This modules aims to introduce students to state-of-the-art tools and analytics techniques for Big Data tasks, including NoSQL data stores, and modern parallel computation methodologies.",
+    "learning_outcomes": [
+      "Discuss different components of the Big Data ecosystem.",
+      "Manipulate different types of NoSQL data stores.",
+      "Assess the suitability of a given data store for a given problem.",
+      "Demonstrate the use of a parallel computation framework to extract information from Big Data.",
+      "Assemble a scalable data solution using a Big Data computation framework."
+    ],
+    "indicative_content": "Big Data ecosystems. Three V's - volume, velocity, veracity. Key-value store, document store, graph database, relational database. Schema migration. Apache Hadoop, MapReduce, Spark. Issues in Big Data ethics, law and security."
+  },
+  {
+    "code": "CM3138",
+    "title": "Hybrid Apps",
+    "level": 9,
+    "aim": "To develop the student's proficiency in utilising hybrid mobile app development tools to create apps capable of running on multiple mobile platforms.",
+    "learning_outcomes": [
+      "Demonstrate practical knowledge of the major components of a hybrid app and how they function together.",
+      "Draw on the facilities of a hybrid app development framework and supporting tools to implement interactive hybrid apps capable of performing common app functionalities.",
+      "Make judgements on the use of appropriate design, testing and documentation processes for hybrid mobile applications.",
+      "Assess security implications in the development of hybrid mobile applications."
+    ],
+    "indicative_content": "Overview of hybrid app development frameworks and IDEs (e.g. Ionic, React Native, Flutter). Use of APIs within the available frameworks. Creating custom classes and inheritance. Controls and target-action within the IDE and GUI. Design implications inherent in touch-based applications e.g. memory management, battery life, screen display, navigation controls. Creation of applications that exploit the features of the modern mobile devices e.g. accelerometer, audio, video, touch and multi-touch on multiple devices. Security analysis of hybrid apps."
+  },
+  {
+    "code": "CM3150",
+    "title": "Immersive Technology",
+    "level": 9,
+    "aim": "To provide the student with the fundamental theories and principles of Immersive Technology, while developing an understanding of appropriate methodologies to design and develop an implementation using these technologies.",
+    "learning_outcomes": [
+      "Interpret a theoretical understanding of immersive technologies.",
+      "Assemble solutions using a number of different software packages and libraries for applications of immersive technology.",
+      "Demonstrate virtual environment design by using appropriate techniques.",
+      "Discriminate new and upcoming technologies related to immersive technology.",
+      "Make judgements on the design of user interactions for immersive technology."
+    ],
+    "indicative_content": "Introduction to Virtual Reality, Augmented Reality and Mixed Reality technologies; Graphic Design for VR, AR and MR; Applications of VR, AR and MR, Unity programming; WebVR; Mobile AR design and development; VR gaming & user interactions."
+  },
+  {
+    "code": "CM3145",
+    "title": "Web and Mobile Security",
+    "level": 9,
+    "aim": "This module aims to empower students to identify and address security vulnerabilities in web and mobile systems, fostering proficiency in modern security strategies.",
+    "learning_outcomes": [
+      "Demonstrate skills in systematically identifying and analysing potential security weaknesses in web and mobile-based systems.",
+      "Demonstrate advanced proficiency in deploying strategies to exploit and defend against security weaknesses in modern web and mobile ecosystems.",
+      "Assess the effectiveness of implemented security methods to ensure a resilient defence posture for web and mobile-based systems.",
+      "Demonstrate proficiency in implementing industry standards and guidelines to mitigate security risks on web and mobile systems."
+    ],
+    "indicative_content": "Core principles and methodologies: Webification, Application stores, Sandboxing, Permission based access control, Web Public Key Infrastructure (Web PKI) and HTTPS, Cookies, Web and mobile device authentication such as biometrics, graphical passwords, unlock patterns; Client-side vulnerabilities and mitigations: Phishing, Clickjacking, Client-side storage, Physical attacks; Server-side vulnerabilities and mitigations: Input sanitization, SQL-injection, Command injection, User-uploaded files, Local file inclusion, Cross-site scripting (XSS), Cross-site request forgery (CSRF); Server-side misconfiguration & vulnerable components: HeartBleed, Firewalls, Load balancers, Databases; Standards and Best Practice Guides."
+  },
+  {
+    "code": "CM4126",
+    "title": "Computer Vision",
+    "level": 10,
+    "aim": "This module aims to equip students with the skills to develop computational solutions for understanding the content of images and video in a way similar to human perception.",
+    "learning_outcomes": [
+      "Communicate a range of image processing and image manipulation techniques.",
+      "Critique a range of image features extraction and features representation methods.",
+      "Question different machine learning and deep learning methods for image classification and object detection and recognition tasks.",
+      "Develop an end-to-end intelligent computer vision solution by applying underlying concepts and theories of modern computer vision."
+    ],
+    "indicative_content": "Image processing methods, core image processing tasks, modern computer vision methods, object detection, localisation and recognition, object tracking and motion estimation. Relevant tools and technologies such as Python, OpenCV, and Tensorflow will be used. Whilst the contents of this module may span across a number of SDGs, it is expected that the material will focus on SDG 9 (Industry, Innovation and Infrastructure)"
+  },
+  {
+    "code": "CM4106",
+    "title": "Languages and Compilers",
+    "level": 10,
+    "aim": "This module will provide students with the theory, knowledge and skills that will provide them with a critical understanding of programming language design and facilitate in the implementation of simple compilers.",
+    "learning_outcomes": [
+      "Conceptualise language syntax specifications and semantics.",
+      "Communicate the structure and phases of a conventional compilation process.",
+      "Critique the relationships between target platform architecture, compilers and programming language design.",
+      "Develop lexical and syntax analysis of a given language using appropriate techniques.",
+      "Invent a code generating compiler for a simple source language and a simple target architecture."
+    ],
+    "indicative_content": "This module will cover the theoretical knowledge and practical skills required to understand and construct conventional compilers for bespoke programming languages. The module will cover 4 main topics in language compiler and development. 1) Language Specification - Syntax and semantics, language grammar, derivation sequences. 2) Compiler Architecture - components, phases and general structures of compilers, including FSM approach and phase interactions 3) Analysis - Lexical, Syntax and semantic analysis as a compiler phase. Recursive descent compilation. Error detection 4) Code / Artefact Generation - generation of target platform code or artefact."
+  },
+  {
+    "code": "CE4145",
+    "title": "Natural Language Processing",
+    "level": 10,
+    "aim": "To provide a comprehensive introduction to natural language processing techniques and their practical use in solving real-world problems.",
+    "learning_outcomes": [
+      "Communicate the main concepts and techniques involved in natural language processing.",
+      "Illustrate the use of standard preprocessing and in-depth analysis of text-based data.",
+      "Develop programs to perform a natural language processing task using industry-standard software.",
+      "Critique the performance of a natural language processing system using a range of appropriate techniques.",
+      "Examine state-of-the-art research-led questions and approaches to natural language processing."
+    ],
+    "indicative_content": "Lexical and paragraph features, Bag-of-words, TF-IDF, Vector Space models, Word and Sentence Embeddings, Contextual Embeddings, Similarity metrics. Tokenization, Stop word removal, Stemming, Lemmatization, Part of Spe ech Tagging (POS), Named Entity Recognition, Word sense disambiguation. RNN, LSTM, CNN, Seq2Seq, Transformers. Sentiment Analysis, Classification and clustering, Personalisation and recommender systems, Naturallanguage generation, Text summarisation. Accuracy, Precision, Recall, F1, Jacquard Coefficient, Rand-Index, User testing, Large language models (LLMs), Explainability of NLP systems, argumentation. NLP Pipelines, Representation Learning, Natural Language Understanding (NLU), Encoding and Decoding, Semantic relatedness, Lexical overlap, Prompting"
+  },
+  {
+    "code": "CM4132",
+    "title": "Advanced Mobile Development",
+    "level": 10,
+    "aim": "To enable students to design, develop apps for traditional and modern mobile platforms, and understand the role of DevOps in managing app development and maintenance",
+    "learning_outcomes": [
+      "Justify selection of software architectural patterns with a focus on scalability, robustness, and maintainability.",
+      "Develop apps that leverage capabilities of recent and evolving mobile platforms using appropriate version control and continuous integration tools.",
+      "Test cross-platform apps using appropriate software and hardware tools.",
+      "Compose a DevOps based strategy for managing the release and long-term maintenance."
+    ],
+    "indicative_content": "Mobile architectural patterns, prototyping, adaptive UI design, mobile development, testing frameworks, cloud integration, DevOps processes, app management"
+  },
+  {
+    "code": "CM4143",
+    "title": "AI and Cyber Security",
+    "level": 10,
+    "aim": "This module aims to equip students with the abilities to evaluate and apply methods, tools, and techniques used in Artificial Intelligence (AI) to tackle cybersecurity challenges.",
+    "learning_outcomes": [
+      "Communicate a critical comprehension of both the data science process lifecycle and the machine learning engineering pipeline.",
+      "Critique various machine learning algorithms applied in the field of cyber security.",
+      "Develop an understanding of the security features of machine learning products",
+      "Develop machine learning solutions for defensive and offensive security."
+    ],
+    "indicative_content": "The case for AI in security. ML engineering pipeline, Data sets and Data types in security (e.g. structured vs unstructured, labelled vs unlabelled, overfitting vs underfitting, class imbalance, biased).ML product development lifecycle (e.g. TDSP or CRISP-DM).ML types (e.g. supervised, unsupervised, reinforcement). ML tasks (e.g. classification, clustering, regression, dimension reduction, density estimation, deep learning). Popular ML algorithms (e. g. LDA, CART, SVM, Naive bayesian, KNN, K-means, Random forests, Genetic algorithms, ANNs, Autoencoder). Applications of AI in both defensive and offensive security contexts, breaking CAPTCHA, identifying malicious URLs, detecting malware/ransomware, spotting phishing/spam emails, recognizing network traffic anomalies and DOS attacks, and identifying credit card fraud, Programming in Python and using relevant tools and libraries. Limitations and challenges in applying AI to security, recommended guidelines for its application, an introduction to adversarial AI, and considerations for the security of AI products."
+  },
+  {
+    "code": "CM4137",
+    "title": "AI for Games",
+    "level": 10,
+    "aim": "This module aims to provide advanced insights into the design, implementation, and optimisation of Artificial Intelligence (AI) systems for interactive digital environments. Students will explore cutting-edge techniques in AI with a specific focus on their application in video games. Through theoretical study and practice based learning, students will develop proficiency in creating intelligent, dynamic, and responsive virtual agents, equipping students with the skills necessary to design and implement sophisticated AI-driven gameplay experiences.",
+    "learning_outcomes": [
+      "Develop expertise in implementing AI algorithms tailored for video games, enabling creation of dynamic and responsive virtual agents.",
+      "Compose strategies to optimise AI computations, ensuring seamless integration within the game environment for a smooth player experience.",
+      "Conceptualise AI agents that adapt to changing game conditions.",
+      "Modify various aspects of gameplay, from enemy behaviour to non-player character interactions.",
+      "Critique AI algorithms, striking a balance between creating challenging gameplay and maintaining player enjoyment."
+    ],
+    "indicative_content": "Foundational AI Concepts; Pathfinding algorithms, decision trees, and behaviour trees, video game environments. Advanced AI; State machines, finite state automata, and reinforcement learning, intelligent and adaptive virtual agents. Real-time Optimisation Techniques; Ensuring AI systems operate seamlessly within a game's interactive framework. Simulation of Human-like Behaviours; Emotion-driven AI and procedural content generation. Ethics; Considerations and responsible AI deployment in games."
+  },
+  {
+    "code": "CM4125",
+    "title": "Data Visualisation",
+    "level": 10,
+    "aim": "To introduce, appraise and interpret data visualisation techniques, and understand the challenges associated with visualising large datasets.",
+    "learning_outcomes": [
+      "Critique a variety of data visualisation techniques in terms of psychology, design, effectiveness and appeal to a wider audience.",
+      "Question data visualisations and explain what conclusions can be drawn from them in terms of data analysis.",
+      "Illustrate an understanding of the challenges of visualising large datasets.",
+      "Invent a coherent pictorial representation of numerical and categorical data.",
+      "Compose novel and interactive data visualisations which lucidly exhibit particular dataset features."
+    ],
+    "indicative_content": "1.Introduction to data visualisation2.Tools for data visualisation3.Data loading and preprocessing4.Data cleaning5.Designing graphs6.Understanding and creating infographics7.Visualising multiple variables8.Data Dashboards"
+  },
+  {
+    "code": "CM4110",
+    "title": "Human Computer Interaction",
+    "level": 10,
+    "aim": "To provide the student with knowledge of the conceptual and theoretical aspects of HCI required to support future technological developments in user oriented approaches and the practical skills currently required to develop interfaces to interactive computer systems.",
+    "learning_outcomes": [
+      "Critique the impact of human factors and the role of usability in the design of human system interaction and dialogue design.",
+      "Devise the application of concepts, principles and models of user-centred design methods to the design of interactive system interfaces.",
+      "Justify selection of appropriate evaluation techniques and undertake a usability evaluation.",
+      "Examine concepts, principles and models to evaluate the design for an interactive system.",
+      "Offer requirements and techniques for the design of interactive systems."
+    ],
+    "indicative_content": "Human factors, Usability and UX. User classes and characteristics. Task based design methods. User object based design methods. Dynamic models. Dialogue design. Cognitive modelling. Scenario based design. Usability evaluation and Experimental evaluation. Cyber security and HCI. Interaction design for augmented and virtual reality systems, hypermedia systems and visualisation systems. HCI and Big Data."
+  },
+  {
+    "code": "CE4321",
+    "title": "Capstone Project",
+    "level": 10,
+    "aim": "To enable the student to undertake a substantial professional project utilising competences developed during their course.",
+    "learning_outcomes": [
+      "Critique relevant literature identified during a comprehensive review of the project topic area, including consideration of relevant legal, social, ethical, professional and security issues.",
+      "Devise a feasible project plan, using requirements gathering methods to draw out reasonable objectives for the project and the given timescale.",
+      "Develop an appropriate project solution/artefact following a suitable development lifecycle. This will typically include using appropriate analysis, design, implementation and testing techniques in order to manage the project to completion.",
+      "Critically examine the project achievement, reflecting on the significance and potential impact of the developed solution/artefacts",
+      "Communicate, using written, graphical and/or oral methods as appropriate, the main aspects of the project in a professional manner."
+    ],
+    "indicative_content": "There is no formal syllabus for this module. Students may be allocated to a project area (guided by their course content). The topics may arise from a collaboration with industry or from existing research and development activities within the University. Students may also propose their own project topics; in such cases, the project supervisor(s) will assess the proposed project to ensure that it is at the appropriate level and that the necessary resources are available. Project supervisor(s) will support students throughout their project with design, planning, and delivery."
+  }
+]
